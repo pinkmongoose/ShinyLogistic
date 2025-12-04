@@ -1,0 +1,2 @@
+# ShinyLogistic
+Logistic map explorer
